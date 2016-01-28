@@ -1,0 +1,1 @@
+A Norwegian website where we will host tournements in StarCraft 2. This project has all the projectfiles to make the tournement-system work. It is using PHP and MySQL.
